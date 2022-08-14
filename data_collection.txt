@@ -1,0 +1,6 @@
+  Pregnancies Glucose BloodPressure SkinThickness Insulin BMI DiabetesPedigreeFunction Age
+0          20      40            30            20      20  30                        2  23
+1
+0
+l
+h
